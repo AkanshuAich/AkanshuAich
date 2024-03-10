@@ -1,3 +1,4 @@
+![logo](https://github.com/AkanshuAich/AkanshuAich/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Akanshu Aich</h1>
 <h3 align="center">A passionate full stack developer and machine learning engineer from India</h3>
 
